@@ -10,10 +10,12 @@ h1 {
 
 h2 {
     color: green;
+    text-align: right;
 }
 
 p {
     font-size: 20px;
+    text-align: right;
 }
 
 a {
@@ -21,6 +23,7 @@ a {
     font-size: 20px;
     border: 1px solid palegreen;
     background-color: palegreen;
+    text-align: right;
 }
 
 table {
@@ -28,13 +31,15 @@ table {
     font-size: 20px;
     color: darkblue;
     border-collapse: collapse;
-    text-align: center;
+    margin-left: auto;
 }
 
 td {
     border: 1px solid brown;
+    text-align: right;
 }
 
 footer {
     font-size: 15px;
+    text-align: right;
 }
