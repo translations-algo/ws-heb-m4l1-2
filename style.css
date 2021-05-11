@@ -1,0 +1,40 @@
+main {
+    background-color: #f4ffe5;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: darkgreen;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+    border: 1px solid palegreen;
+    background-color: palegreen;
+}
+
+table {
+    background-color: limegreen;
+    font-size: 20px;
+    color: darkblue;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 1px solid brown;
+}
+
+footer {
+    font-size: 15px;
+}
