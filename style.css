@@ -2,6 +2,10 @@ main {
     background-color: #f4ffe5;
 }
 
+header {
+    text-align: right;   
+}
+
 h1 {
     text-align: center;
     font-size: 50px;
